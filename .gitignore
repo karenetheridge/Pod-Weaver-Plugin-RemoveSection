@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Pod-Weaver-Plugin-RemoveSection-*/
+/Pod-Weaver-Plugin-RemoveSection-*.tar.gz
